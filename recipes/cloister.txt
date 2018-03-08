@@ -1,0 +1,36 @@
+Cloister (had at Livermore, recipe from the Cocktail Spirit)
+
+1-1/2 oz gin
+1/2 oz grapefruit
+1/2 oz yellow chartreuse
+1/4 oz lemon
+[1/4 oz simple]
+
+Garnish with a grapefruit twist or lemon twist.
+
+I made this for myself at home, when Michelle Markle was visiting, and it
+didn't *quite* hit the spot.. too sweet, hence my optionalizing the 1/4 simple,
+which i think is really for mouthfeel more than sweetness.  Later analyzed it
+as having the Pegu nature on account of the ratios from Robert Hess's video.
+Here's the expert-systems-style breakdown:
+
+    Pegu:               Cloister:
+    -----               ---------
+    gin = base          gin = base
+    lime = citrus       grapefruit = citrus
+           sour                      sweet
+           juice                     juice
+    Cointreau = citrus  Yellow Chartreuse = herbal
+                sweet                       sweet
+    bitters = herbal    lemon = sour
+
+See, it all kinda balances out!  Replace the Cointreau with another sweet
+liqueur, like Yellow Chartreuse.. what have you done?  Taken away some citrus
+flavor, but added an herbaceous kick.  So maybe as an accent, we use a splash
+of lemon instead of bitters, since what we need is more citrus.  But orange
+isn't quite lemon, so maybe for the main juice, we'll use grapefruit, which
+is also sweeter than lime, good because the Cointreau was probably sweeter
+than the Yellow Chartreuse.  All kinda balances out, like i said..
+
+I wonder if you could actually learn and derive from this kind of breakdown
+idea, rather than just analyze.

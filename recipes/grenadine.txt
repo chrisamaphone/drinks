@@ -1,0 +1,44 @@
+Homemade Grenadine (modified from Jeffrey Morgenthaler's recipe [1])
+
+8 oz (1 cup) pomegranate juice
+8 oz (1 cup) sugar
+2 oz pomegranate molasses
+1-2 tsp orange blossom water
+
+You can make pomegranate juice from fresh pomegranates using a juicer (gasp!),
+or alternatively, there's always POM.  The 2 oz pomegranate molasses is where
+i differ from Morgenthaler -- his recipe only calls for 1 oz (well, actually,
+2 oz, but it's a doubled recipe compared to mine), but i think it needs that
+extra tartness and sugar concentration.  Imbibe Magazine agrees [2].
+
+Easiest way to mix it all up: heat the pomegranate juice gently -- about 2
+minutes in the microwave, long enough to warm but not cook -- and then put
+everything in a jar and shake like the dickens.
+
+If the orange blossom water is the kind in 45% alcohol, that'll help preserve
+it.  I suspect 2 tsp might be perfect.  I just made a batch (12-16-2014) with
+3 tsp, and it's too much.  Might try to make half a batch and fix it up... or
+just see how it is after cooling and combining.
+
+12-17-2014: Discovered some improved methods.  First, pomegranate seeds can
+easily be removed from the husk via the "spank" method [3].  Then, pomegranate
+seeds can eminently be transformed into pomegranate juice by blending and
+straining [4, 5] -- i didn't even add any extra water.  Also, in the batch i
+made today, i didn't bother heating the juice at all (the "cold process method"
+[6]), and it seems to have worked well enough, possibly even with improved
+flavor by avoiding the dangerous possibility of cooking the juice.  Left out
+the orange blossom water this time -- with yesterday's batch of ~16 oz/3 tsp
+and today's batch of ~8 oz/0 tsp, i should be able to attain many possible
+concentrations and taste test to find the best.  (Hypothesis: ~16 oz/2 tsp is
+the ideal ratio.)
+
+References:
+[1] http://www.jeffreymorgenthaler.com/2009/how-to-make-your-own-grenadine/
+[2] http://imbibemagazine.com/Recipes/Homemade-Grenadine-Recipe
+[3] "The BEST Pomegranate Technique (No Water Method) Quick Trick",
+    http://youtu.be/oyTRkUTtgic
+[4] "How To Make Homemade Pomegranate Juice-Drinks Made Easy",
+    http://youtu.be/29mh0Y8CzrE
+[5] "Make Your OWN Pomegranate Juice", http://youtu.be/VzvsQVIX0mY
+[6] "How To Make Homemade Grenadine with Pomegranate Juice-Drinks Made Easy",
+    http://youtu.be/C7K__pbSMnk
